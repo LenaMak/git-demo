@@ -3,11 +3,14 @@ wall of shields
 standing strong
 on their chosen battle field
 
-From the lines
+Form the lines
 Shield by shield
+<<<<<<< HEAD
 Side by side
 We're marching into destiny
 -------------------------------------------------------------
 Form the lines
 Shield by shield
 
+=======
+>>>>>>> parent of 7e4c3c2... finish second part
